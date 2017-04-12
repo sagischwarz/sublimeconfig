@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Git",
+		"GitGutter",
+		"HexViewer",
+		"MarkdownEditing",
+		"NASM x86 Assembly",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Terminal",
+		"Vintageous"
+	]
+}

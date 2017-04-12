@@ -1,0 +1,10 @@
+{
+	"extensions": ["md","mdown"],
+	"wrap_width": 70,
+	"font_size": 14,
+	"font_face": "Open Sans",
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	"caret_style": "phase",
+	"spell_check": true,
+	"dictionary": "Packages/Language - German/German_de_DE.dic"
+}
