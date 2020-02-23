@@ -5,16 +5,12 @@
 	],
 	"installed_packages":
 	[
-		"BracketHighlighter",
+		"Dracula Color Scheme",
 		"Git",
 		"GitGutter",
 		"HexViewer",
 		"MarkdownEditing",
-		"NASM x86 Assembly",
 		"Package Control",
-		"Pretty JSON",
-		"Terminal",
-		"Theme - One Dark",
-		"Vintageous"
+		"Pretty JSON"
 	]
 }
