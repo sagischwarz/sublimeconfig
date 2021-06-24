@@ -5,11 +5,12 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
 	"one_dark_show_tabs_dropdown": true,
+	"remember_workspace": false,
 	"scroll_speed": 0,
+	"preview_on_click": false,
 	"theme": "Adaptive.sublime-theme",
-	"vintageous_use_ctrl_keys": true,
-	"vintageous_use_sys_clipboard": true
+	"themed_title_bar": false
 }
