@@ -9,7 +9,8 @@
 		"Git",
 		"GitGutter",
 		"HexViewer",
+		"Nord",
 		"Package Control",
-		"Pretty JSON"
+		"Pretty JSON",
 	],
 }

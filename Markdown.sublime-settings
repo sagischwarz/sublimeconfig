@@ -1,7 +1,6 @@
 {
 	"extensions": ["md","mdown"],
 	"wrap_width": 70,
-	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"caret_style": "phase",
 	"spell_check": false,
 	"dictionary": "Packages/Language - German/German_de_DE.dic"
