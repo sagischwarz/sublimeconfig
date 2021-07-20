@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"color_scheme": "auto",
 	"font_face": "Hack",
 	"font_size": 10,
 	"highlight_line": true,
@@ -11,6 +11,10 @@
 	"remember_workspace": false,
 	"scroll_speed": 0,
 	"preview_on_click": false,
-	"theme": "Adaptive.sublime-theme",
-	"themed_title_bar": false
+	"theme": "auto",
+	"themed_title_bar": false,
+	"dark_theme": "Adaptive.sublime-theme",
+	"light_theme": "Adaptive.sublime-theme",
+	"dark_color_scheme": "Packages/Nord/Nord.sublime-color-scheme",
+	"light_color_scheme": "Packages/Color Scheme - Default/Celeste.sublime-color-scheme",
 }
