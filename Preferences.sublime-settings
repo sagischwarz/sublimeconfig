@@ -1,21 +1,22 @@
 {
-	"color_scheme": "Packages/Nord/Nord.sublime-color-scheme",
+
+	"color_scheme": "auto",
+	"dark_color_scheme": "Nord.sublime-color-scheme",
+	"dark_theme": "Adaptive.sublime-theme",
 	"font_face": "Fira Code",
 	"font_options": ["no_liga", "no_clig", "no_calt"],
-	"font_size": 10,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage",
 	],
-	"one_dark_show_tabs_dropdown": true,
-	"remember_workspace": false,
-	"scroll_speed": 0,
-	"preview_on_click": false,
-	"theme": "auto",
-	"themed_title_bar": false,
-	"dark_theme": "Adaptive.sublime-theme",
+	"light_color_scheme": "Breakers.sublime-color-scheme",
 	"light_theme": "Adaptive.sublime-theme",
-	"dark_color_scheme": "Packages/Nord/Nord.sublime-color-scheme",
-	"light_color_scheme": "Packages/Color Scheme - Default/Celeste.sublime-color-scheme",
+	"open_files_in_new_window": false,
+	"preview_on_click": false,
+	"remember_workspace": false,
+	"scroll_past_end": true,
+	"theme": "auto",
+	"index_files": true,
 }

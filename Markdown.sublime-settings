@@ -1,7 +1,0 @@
-{
-	"extensions": ["md","mdown"],
-	"wrap_width": 70,
-	"caret_style": "phase",
-	"spell_check": false,
-	"dictionary": "Packages/Language - German/German_de_DE.dic"
-}
