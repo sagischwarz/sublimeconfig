@@ -1,5 +1,4 @@
 {
-
 	"color_scheme": "auto",
 	"dark_color_scheme": "Nord.sublime-color-scheme",
 	"dark_theme": "Adaptive.sublime-theme",
@@ -11,12 +10,13 @@
 	[
 		"Vintage",
 	],
-	"light_color_scheme": "Breakers.sublime-color-scheme",
+	"light_color_scheme": "Xcode Default.sublime-color-scheme",
 	"light_theme": "Adaptive.sublime-theme",
 	"open_files_in_new_window": false,
 	"preview_on_click": false,
 	"remember_workspace": false,
 	"scroll_past_end": true,
 	"theme": "auto",
-	"index_files": true,
+	"index_files": false,
+	"find_selected_text": true,
 }

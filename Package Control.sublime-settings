@@ -5,10 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"Catppuccin color schemes",
 		"GitGutter",
 		"HexViewer",
+		"MarkdownEditing",
 		"Nord",
 		"Package Control",
 		"Pretty JSON",
+		"Xcode Colors",
 	],
 }
