@@ -1,7 +1,7 @@
 {
 	"auto_complete": false,
 	"color_scheme": "auto",
-	"dark_color_scheme": "Nord.sublime-color-scheme",
+	"dark_color_scheme": "Catppuccin Mocha.sublime-color-scheme",
 	"dark_theme": "Adaptive.sublime-theme",
 	"find_selected_text": true,
 	"font_face": "Fira Code",
@@ -13,7 +13,7 @@
 		"Vintage",
 	],
 	"index_files": false,
-	"light_color_scheme": "Xcode Default.sublime-color-scheme",
+	"light_color_scheme": "Catppuccin Latte.sublime-color-scheme",
 	"light_theme": "Adaptive.sublime-theme",
 	"open_files_in_new_window": false,
 	"preview_on_click": false,
